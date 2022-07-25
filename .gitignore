@@ -1,2 +1,3 @@
-get_meps_data/
-datasets/
+cqr/get_meps_data/h192.csv
+cqr/get_meps_data/h181.csv
+cqr/datasets/blogData_train.csv
