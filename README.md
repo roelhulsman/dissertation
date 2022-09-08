@@ -10,6 +10,6 @@ Real data experiments regarding the `bike`, `community`, `concrete` and `star` d
 
 `graphs.ipynb` contains the code used the generate the graphs in the main article, except for two graphs regarding the synthetic example which are generated in `Synthetic Example.ipynb`. The output of the script is in the map `Images`.
 
-`Conditions Coverage Numerical Check.R` contains a numerical check of the conditions mentioned in Proposition 3, and a numerical method to generate the computational tables in Appendix B.
+`Conditions Coverage Numerical Check.R` contains a numerical check of the conditions mentioned in Proposition 3, `Table Generator.R` contains a numerical method to generate the computational tables in Appendix B.
 
 [1] Yaniv Romano, Evan Patterson, and Emmanuel J. Candes, “Conformalized quantile regression.” 2019.
