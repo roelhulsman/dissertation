@@ -1,6 +1,5 @@
-# Dissertation MSc Statistical Science 
+# Dissertation
 Roel Hulsman
-University of Oxford
 
 The folders `datasets`, `nonconformist` and `cqr` are taken from the codebase provided by [1]. The first provides the relevant datasets. The second provides a convenient package-style implementation of split conformal prediction. The third provides a convenient package-style implementation of CQR.
 
